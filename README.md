@@ -2,7 +2,7 @@
 
 A single-page application site bringing together my résumé, cover letter, and "Why Anthropic" for the Forward Deployed Engineer role at Anthropic.
 
-**Live page:** _(set your GitHub Pages URL once you've published — typically `https://<username>.github.io/<repo>/`)_
+**Live page:** https://gronkykong.github.io/MatthewOlson/
 
 ## What's here
 
